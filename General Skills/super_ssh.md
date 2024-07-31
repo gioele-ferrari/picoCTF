@@ -17,13 +17,11 @@ Durante la connessione, mi è stata richiesta una password. Dopo aver inserito l
 
 ### Step 3: Ottenimento della Flag
 
-Una volta connesso al server remoto, mi è stata fornita la flag:
-picoCTF{s3cur3_c0nn3ct10n_8306c99d}
+Una volta connesso al server remoto, mi è stata fornita la flag: picoCTF{s3cur3_c0nn3ct10n_8306c99d}
 
 ## Risultato Finale
 
-La flag trovata è:
-picoCTF{s3cur3_c0nn3ct10n_8306c99d}
+La flag trovata è: picoCTF{s3cur3_c0nn3ct10n_8306c99d}
 
 ## Comandi Utilizzati
 

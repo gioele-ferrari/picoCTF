@@ -20,13 +20,11 @@ All'interno della cartella `.git`, ho trovato e aperto il file `COMMIT_EDITMSG` 
 
 ### Step 4: Ottenimento della Flag
 
-All'interno del file `COMMIT_EDITMSG`, ho trovato la flag:
-picoCTF{t1m3m@ch1n3_e8c98b3a}
+All'interno del file `COMMIT_EDITMSG`, ho trovato la flag: picoCTF{t1m3m@ch1n3_e8c98b3a}
 
 ## Risultato Finale
 
-La flag trovata è:
-picoCTF{t1m3m@ch1n3_e8c98b3a}
+La flag trovata è: picoCTF{t1m3m@ch1n3_e8c98b3a}
 
 ## Comandi Utilizzati
 
