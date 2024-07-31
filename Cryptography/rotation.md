@@ -24,7 +24,7 @@ picoCTF{r0tat1on_d3crypt3d_4c71f5b0}
 
 ## Risultato Finale
 
-La flag trovata è: picoCTF{r0tat1on_d3crypt3d_4c71f5b0}
+La flag trovata è: `picoCTF{r0tat1on_d3crypt3d_4c71f5b0}`
 
 ## Comandi Utilizzati
 

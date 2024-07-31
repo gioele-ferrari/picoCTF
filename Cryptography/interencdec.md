@@ -24,7 +24,7 @@ Mi sono reso conto di essere molto vicino, ma manca ancora qualcosa. Sembra una 
 
 ## Risultato Finale
 
-La flag trovata è: picoCTF{caesar_d3cr9pt3d_86de32d2}
+La flag trovata è: `picoCTF{caesar_d3cr9pt3d_86de32d2}`
 
 ## Comandi Utilizzati
 

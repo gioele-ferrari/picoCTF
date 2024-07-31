@@ -24,7 +24,7 @@ All'interno del file `COMMIT_EDITMSG`, ho trovato la flag: picoCTF{t1m3m@ch1n3_e
 
 ## Risultato Finale
 
-La flag trovata è: picoCTF{t1m3m@ch1n3_e8c98b3a}
+La flag trovata è: `picoCTF{t1m3m@ch1n3_e8c98b3a}`
 
 ## Comandi Utilizzati
 

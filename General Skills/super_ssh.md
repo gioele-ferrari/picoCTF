@@ -21,7 +21,7 @@ Una volta connesso al server remoto, mi è stata fornita la flag: picoCTF{s3cur3
 
 ## Risultato Finale
 
-La flag trovata è: picoCTF{s3cur3_c0nn3ct10n_8306c99d}
+La flag trovata è: `picoCTF{s3cur3_c0nn3ct10n_8306c99d}`
 
 ## Comandi Utilizzati
 

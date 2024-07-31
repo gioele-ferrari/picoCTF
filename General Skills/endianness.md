@@ -60,7 +60,7 @@ Inserendo nel programma i byte in maniera corretta otteniamo: picoCTF{3ndi4n_sw4
 
 ## Risultato Finale
 
-La flag trovata è: picoCTF{3ndi4n_sw4p_su33ess_817b7cfe}
+La flag trovata è: `picoCTF{3ndi4n_sw4p_su33ess_817b7cfe}`
 
 ## Conclusione
 
