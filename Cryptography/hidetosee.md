@@ -34,7 +34,7 @@ Dopo aver decodificato il testo con il Cifrario di Atbash, ho ottenuto la flag: 
 
 ## Risultato Finale
 
-La flag trovata è: picoCTF{atbash_crack_92533667}
+La flag trovata è: `picoCTF{atbash_crack_92533667}`
 
 ## Comandi Utilizzati
 
@@ -47,4 +47,3 @@ steghide extract -sf atbash.jpg
 ## Conclusione
 
 Il problema è stato risolto utilizzando la tecnica della steganografia per estrarre dati nascosti da un'immagine. Successivamente, ho decodificato il testo cifrato con il Cifrario di Atbash per ottenere la flag. La conoscenza della steganografia e dei cifrari di sostituzione è stata fondamentale per trovare la flag nascosta.
-Se hai altre richieste o modifiche, fammi sapere!

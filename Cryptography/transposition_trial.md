@@ -58,4 +58,3 @@ Non sono stati utilizzati comandi specifici, ma uno script Python per riordinare
 ## Conclusione
 
 Il problema è stato risolto riconoscendo che i dati erano stati trasposti in blocchi di 3 caratteri. Utilizzando uno script Python, ho suddiviso la stringa e riordinato i blocchi per ottenere il testo corretto e la flag. La comprensione delle tecniche di trasposizione e la capacità di scrivere script Python sono state fondamentali per risolvere il problema.
-Se hai altre richieste o modifiche, fammi sapere!
